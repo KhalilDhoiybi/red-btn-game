@@ -65,3 +65,7 @@ body {
 .red-btn-move {
   transform: translateY(-55px) rotate(10deg);
 }
+.hidden-btn-show {
+  position: relative;
+  z-index: 1;
+}
